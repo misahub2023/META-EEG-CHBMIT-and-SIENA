@@ -7,6 +7,7 @@ The **CHB-MIT Scalp EEG Database** is a well-known dataset containing EEG record
 The **CHB-MIT Meta EEG Dataset** released here contains **balanced, annotated, fixed-time, and length meta-data** of the CHB-MIT Scalp EEG database v1.0.0.0, focused on patient-specific (inter and intra) and patient non-specific EEG data. The dataset includes key segments from **ictal**, **pre-ictal**, **post-ictal**, **peri-ictal**, and **non-seizure** periods. These segments have been extracted from the original CHB-MIT dataset using specific time stamps and annotations.
 
 The metadata generated from this dataset will help researchers and practitioners working with AI-based seizure detection models by providing them with standardized, non-redundant EEG data.
+The metadata can be directly downloaded from [zenodo](https://zenodo.org/records/6062372).
 
 ### The metadata includes:
 - **Patient-Specific Data**: Contains inter- and intra-patient EEG data.
