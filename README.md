@@ -1,4 +1,4 @@
-# CHB-MIT Meta EEG Dataset Generator
+# Meta-EEG of CHB-MIT Scalp EEG Database v1.0.0.0
 
 ## Overview
 
@@ -13,6 +13,7 @@ The metadata generated from this dataset will help researchers and practitioners
 - **Patient Non-Specific Data**: Includes non-patient-specific segments.
 - **Time Stamps**: Includes ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure time segments.
 - **Exclusions**: Data for channels ch06, ch12, ch23, ch24 in patient-specific and chb24_11 in patient non-specific have not been included.
+  ![](database_details.png)
 
 ---
 
