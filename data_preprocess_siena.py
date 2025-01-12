@@ -28,9 +28,9 @@ print("Sorted Files:", files)
 print("Total Number of Files:", file_count)
 
 # Path to the original dataset folder
-original_folder = 'edf_files'  # Replace this with the path of the 'dataset' folder
+original_folder = 'siena_edfs'  # Replace this with the path of the 'dataset' folder
 # Path to the new folder where you want to copy the files
-new_folder = 'final_data'  # Replace with your desired path for the new folder
+new_folder = 'edf_files'  # Replace with your desired path for the new folder
 
 # Ensure the new folder exists, if not create it
 if not os.path.exists(new_folder):
