@@ -89,9 +89,64 @@ The repository contains the following key files and directories:
 - **`CHB-MIT DB timestamp.csv`**: CSV file containing the time stamps for ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure segments.
 - **`Siena DB timestamp.csv`**: CSV file containing the time stamps for ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure segments.
 
-## References
+## Acknowledgement
+The idea of the dataset was developed by Dr. Palak Handa, Ms. Esha Gupta and executed by Ms. Muskan Gupta. Authors are thankful to Ms. Manya Joshi for helping in the development of the GitHub repository.
 
+## References
+1. **Meta-EEG of Siena Scalp EEG Database v1.0.0**  
+   - **BibTeX**:
+     ```bibtex
+     @dataset{muskan_gupta_2022_6061290,
+        author       = {Muskan Gupta and
+                        Rishita Anand Sachdeva and
+                        Esha Gupta and
+                        Palak Handa and
+                        Nidhi Goel},
+        title        = {Meta-EEG of Siena Scalp EEG Database v1.0.0},
+        month        = feb,
+        year         = 2022,
+        publisher    = {Zenodo},
+        doi          = {10.5281/zenodo.6061290},
+        url          = {https://doi.org/10.5281/zenodo.6061290},
+      }
+     ```
+   - **Link**: [Meta-EEG of Siena Scalp EEG Database v1.0.0](https://zenodo.org/records/6061290)
+
+2. **Meta-EEG of CHB-MIT Scalp EEG Database**  
+   - **BibTeX**:
+     ```bibtex
+     @dataset{esha_gupta_2022_6062372,
+        author       = {Esha Gupta and
+                        Muskan Gupta and
+                        Rishita Anand Sachdeva and
+                        Palak Handa and
+                        Nidhi Goel},
+        title        = {Meta-EEG of CHB-MIT Scalp EEG Database v1.0.0.0},
+        month        = feb,
+        year         = 2022,
+        publisher    = {Zenodo},
+        doi          = {10.5281/zenodo.6062372},
+        url          = {https://doi.org/10.5281/zenodo.6062372},
+      }
+     ```
+   - **Link**: [Meta-EEG of CHB-MIT Scalp EEG Database v1.0.0.0](https://zenodo.org/records/6062372)
+
+3. **Peri‐ictal and non‐seizure EEG event detection using generated metadata**  
+   - **BibTeX**:
+     ```bibtex
+     @article{handa2022peri,
+        title={Peri-ictal and non-seizure EEG event detection using generated metadata},
+        author={Handa, Palak and Goel, Nidhi},
+        journal={Expert Systems},
+        volume={39},
+        number={5},
+        pages={e12929},
+        year={2022},
+        publisher={Wiley Online Library}
+      }
+     ```
+   - **Link**: [Peri-ictal and non-seizure EEG event detection using generated metadata](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12929) 
 
 ---
 
-Feel free to contribute, raise issues, or suggest improvements via GitHub!
+**Feel free to contribute, raise issues, or suggest improvements!**
