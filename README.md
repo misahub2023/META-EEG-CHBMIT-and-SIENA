@@ -16,7 +16,7 @@ The metadata can be directly downloaded from zenodo: [Data of Meta-EEGs](https:/
 - **Patient Non-Specific Data**: Includes non-patient-specific segments.
 - **Time Stamps**: Includes ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure time segments.
 - **Exclusions**: Data for channels ch06, ch12, ch23, ch24 in patient-specific and chb24_11 in patient non-specific have not been included.
-  ![](database_details_chbmit.png)
+  ![](meta_eeg_chb_mit.png)
 
 #### Siena Scalp Daataset:
 - **Patient-Specific Data**: Contains inter-patient EEG data across different individuals.
@@ -24,7 +24,7 @@ The metadata can be directly downloaded from zenodo: [Data of Meta-EEGs](https:/
 - **Time Stamps**: Includes ictal, pre-ictal, post-ictal, and peri-ictal segments as annotated in the original database.
 - **Exclusions**: The data for patient **PN00-3** has been excluded from this release.
 
-![](database_details_siena.png)  
+![](meta_eeg_siena_scalp.png)
 
 ---
 
