@@ -89,8 +89,6 @@ The repository contains the following key files and directories:
 - **`CHB-MIT DB timestamp.csv`**: CSV file containing the time stamps for ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure segments.
 - **`Siena DB timestamp.csv`**: CSV file containing the time stamps for ictal, pre-ictal, post-ictal, peri-ictal, and non-seizure segments.
 
-## Acknowledgement
-The idea of the dataset was developed by Dr. Palak Handa, Ms. Esha Gupta and executed by Ms. Muskan Gupta. Authors are thankful to Ms. Manya Joshi for helping in the development of the GitHub repository.
 
 ## References  
    - **BibTeX**:
